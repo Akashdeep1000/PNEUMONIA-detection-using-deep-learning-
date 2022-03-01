@@ -1,5 +1,8 @@
 # PNEUMONIA-detection-using-deep-learning-
 
+To get the best results please re-run the code from zero as the saved resnet model was too big to upload.
+
+
 To Run the code please follow the following:
 
 1. Download the dataset
